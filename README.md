@@ -1,3 +1,7 @@
+<p align="center">
+  <img src="IF-Game-Arabic-Banner.png" alt="IF Game Arabic Banner" width="100%">
+</p>
+
 <div align="center">
 
 # 🎮 IF Game Arabic
